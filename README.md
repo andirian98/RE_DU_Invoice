@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Documentation is included in the Documentation folder ###
 
 [REFrameWork Documentation](https://github.com/UiPath/ReFrameWork/blob/master/Documentation/REFramework%20documentation.pdf)
@@ -38,3 +39,7 @@
 2. Implement InitiAllApplications.xaml and CloseAllApplicatoins.xaml workflows, linking them in the Config.xlsx fields
 3. Implement GetTransactionData.xaml and SetTransactionStatus.xaml according to the transaction type being used (Orchestrator queues by default)
 4. Implement Process.xaml workflow and invoke other workflows related to the process being automated
+=======
+# RE_DU_Invoice
+RE_DU_Invoice is a repository for UiPath Automation practice using ReFramework and Document Understanding to read and extract all relevant information from Invoice. 
+>>>>>>> 85fc736ba59a283301acbed54ef98036ad64624e
